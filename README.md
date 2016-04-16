@@ -6,6 +6,8 @@ Our development platform is presently OpenCV python on a Rasberry Pi 2 B+. The U
 Current dependancie:
 
 * http://opencv.org
+ 
+Depedancies in progress:
 * https://github.com/ktossell/libuvc.git
 * https://github.com/pupil-labs/pyuvc.git  (Python UVC)
 
