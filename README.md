@@ -11,3 +11,4 @@ Depedancies in progress:
 * https://github.com/ktossell/libuvc.git
 * https://github.com/pupil-labs/pyuvc.git  (Python UVC)
 
+![V0.02 Prototype](http://i.imgur.com/UVtXb0tm.jpg?1)
