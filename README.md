@@ -14,6 +14,17 @@ Our key principals are as follows:
 
 To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B+ utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
 
+To see examples of images captured with the hardware see: 
+* [Field Testing](https://github.com/Open360cam/360CamHardware/wiki/Field-Testing)
+
+Description:
+|  File  | Description |
+| ----- | ----- |
+| (Live2CameraDisplay.py)[https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py] | Live display from two cameras at 800 x 600 resolution|
+| (FullSizeSnapShot.py)[https://github.com/Open360cam/360CamCode/blob/master/FullSizeSnapShot.py] | Live display and captures full res images from both cameras when 'q' is press |
+https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py
+
+
 Current dependancie:
 
 * http://opencv.org
