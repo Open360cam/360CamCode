@@ -17,12 +17,13 @@ To enable portable imaging, we have developed and tested the cameras on a Raspbe
 To see examples of images captured with the hardware see: 
 * [Field Testing](https://github.com/Open360cam/360CamHardware/wiki/Field-Testing)
 
-Description:
-|  File  | Description |
-| ----- | ----- |
-| (Live2CameraDisplay.py)[https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py] | Live display from two cameras at 800 x 600 resolution|
-| (FullSizeSnapShot.py)[https://github.com/Open360cam/360CamCode/blob/master/FullSizeSnapShot.py] | Live display and captures full res images from both cameras when 'q' is press |
-https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py
+Code description:
+
+File | Description 
+--- | --- | ---
+[Live2CameraDisplay.py](https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py) | Live display from two cameras at 800 x 600 resolution. Quits when 'q' is pressed
+[FullSizeSnapShot.py](https://github.com/Open360cam/360CamCode/blob/master/FullSizeSnapShot.py) | Live display and captures full res images from both cameras when 'q' is pressed
+
 
 
 Current dependancie:
