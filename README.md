@@ -9,8 +9,9 @@ This repository contains code to capture images and _eventually_ process the raw
 * Created with the free version of [PTGui](https://www.ptgui.com)
 * Can be viewed using PTview, google street view app or other 360 spherical viewers
 ![](http://i.imgur.com/FxKGasV.jpg)
+Download image here: http://imgur.com/FxKGasV
 
-
+## About
 As detailed on the [hardware page](https://github.com/Open360cam/360CamHardware/blob/gh-pages/README.md),
 Our key principals are as follows:
 * Open source hardware and software to encourage educational use and a developer community
