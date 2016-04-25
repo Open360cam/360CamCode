@@ -23,8 +23,7 @@ File | Description
 --- | --- | ---
 [Live2CameraDisplay.py](https://github.com/Open360cam/360CamCode/blob/master/Live2CameraDisplay.py) | Live display from two cameras at 800 x 600 resolution. Quits when 'q' is pressed
 [FullSizeSnapShot.py](https://github.com/Open360cam/360CamCode/blob/master/FullSizeSnapShot.py) | Live display and captures full res images from both cameras when 'q' is pressed
-
-
+[FucusUtility.py](https://github.com/Open360cam/360CamCode/blob/master/FocusUtility.py) | Utility for setting lens focus. Crops central region and zooms display. Hit q to close
 
 Current dependancie:
 
