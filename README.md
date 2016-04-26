@@ -8,10 +8,9 @@ This repository contains code to capture images and _eventually_ process the raw
 * Created with the free version of [PTGui](https://www.ptgui.com)
 * Can be viewed using PTview, google street view app or other 360 spherical viewers
 *Taken with the [LS-40180](http://www.uctronics.com/ls-40180-fish-eye-lens-105mm-focal-length-for-raspberry-pi-camera-board-p-2074l.html) fisheye (lower quality, but has an IR filter so color is correct)
-![](https://github.com/littlstar/axis)
-
-Dowload full image here:
 ![](http://i.imgur.com/TNTswUM.jpg)
+
+Dowload full image here: http://imgur.com/TNTswUM
 
 * Taken with the 1.17mm 220 degree lens
 * Camera white balance is off due to no IR filte on lens
