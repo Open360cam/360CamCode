@@ -12,7 +12,7 @@ This repository contains code to capture images and _eventually_ process the raw
 
 Dowload full image here: http://imgur.com/TNTswUM
 
-* Taken with the 1.17mm 220 degree lens
+* Taken with the 1.17mm 220 degree lens DS13F117M12 from Day Optics
 * Camera white balance is off due to no IR filte on lens
 
 ![](http://i.imgur.com/FxKGasV.jpg)
