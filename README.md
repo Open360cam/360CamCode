@@ -3,13 +3,21 @@ Code repository for the Open Source 360 Camera Project
 
 This repository contains code to capture images and _eventually_ process the raw images for panoramic or spherical panoramic stiching. 
 
-## First spherical panorama:
-* Camera white balance is off due to no IR filte on lens
+## First spherical panoramas:
 * This was created using 2 images captured with a 180 degree rotation (I only have 1 of the 220 degree lenses currently)
 * Created with the free version of [PTGui](https://www.ptgui.com)
 * Can be viewed using PTview, google street view app or other 360 spherical viewers
+*Taken with the [LS-40180](http://www.uctronics.com/ls-40180-fish-eye-lens-105mm-focal-length-for-raspberry-pi-camera-board-p-2074l.html) fisheye (lower quality, but has an IR filter so color is correct)
+![](https://github.com/littlstar/axis)
+
+Dowload full image here:
+![](http://i.imgur.com/TNTswUM.jpg)
+
+* Taken with the 1.17mm 220 degree lens
+* Camera white balance is off due to no IR filte on lens
+
 ![](http://i.imgur.com/FxKGasV.jpg)
-Download image here: http://imgur.com/FxKGasV
+Download full size image here: http://imgur.com/FxKGasV
 
 ## About
 As detailed on the [hardware page](https://github.com/Open360cam/360CamHardware/blob/gh-pages/README.md),
