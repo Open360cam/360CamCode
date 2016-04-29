@@ -28,7 +28,7 @@ Our key principals are as follows:
 * Cost to be similar to a consumer level 360 camera such as Ricoh Theta ($250-$350)
 * Performance to be adequate to create 360 panoramas 
 
-To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B+ utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
+To enable portable imaging, we have developed and tested the cameras on a Raspberry Pi 2 B utilizing OpenCV libraries to control and capture images from the cameras. The USB 2.0 cameras from ELP that we selected us the [Sonix SN9C292A](http://www.sonix.com.tw/article-en-995-7860) video controller with USB Video Class compatibility. 
 
 To see examples of images captured with the hardware see: 
 * [Field Testing](https://github.com/Open360cam/360CamHardware/wiki/Field-Testing)
