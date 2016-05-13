@@ -21,6 +21,10 @@ Dowload full image here: http://imgur.com/TNTswUM
 Download full size image here: http://imgur.com/FxKGasV
 
 ## About
+The entrance of consumer grade and professional 360 spherical cameras to the market will change the way people capture and interact with digital images and video.  While cameras like the Ricoh Theta, Samsung Gear 360 and Facebook Surround 360 cameras will meet consumer and professional needs, no platform is available to the maker, hacker, or educator.  
+
+This goal of this project is to develop a hardware kit that is open, hackable, adaptable, and extensible to open this incredible technology to everyone. 
+
 As detailed on the [hardware page](https://github.com/Open360cam/360CamHardware/blob/gh-pages/README.md),
 Our key principals are as follows:
 * Open source hardware and software to encourage educational use and a developer community
