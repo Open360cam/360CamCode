@@ -1,6 +1,10 @@
 # 360CamCode
 Code repository for the Open Source 360 Camera Project
 
+Brought to you by [Photon Labs: photonlabs.tech](http://photonlabs.tech) 
+
+See us on [hackaday.io](https://hackaday.io/project/11604-360-camera)
+
 This repository contains code to capture images and _eventually_ process the raw images for panoramic or spherical panoramic stiching. 
 
 ## First spherical panoramas:
